@@ -1,0 +1,44 @@
+<html>
+<head>
+</head>
+<body>
+<table>
+<tr>
+<th rowspan="4">MEXICO</th>
+</tr>
+<tr>
+<td>Diario amanecer</td><td> <a  href="http://diarioamanecer.com.mx/"> http://diarioamanecer.com.mx/ </a></td>
+</tr>
+<tr>
+<td>la jornada</td> <td><a href="https://www.jornada.com.mx"> https://www.jornada.com.mx</a></td>
+</tr>
+<tr>
+<td>sol de mexico</td><td><a  href="https://www.elsoldemexico.com.mx/"> https://www.elsoldemexico.com.mx/ </a></td>
+</tr>
+<tr>
+<th rowspan="4">ARGENTINA</th>
+</tr>
+<tr>
+<td>Clarin</td><td> <a  href="https://www.clarin.com/"> https://www.clarin.com/ </a></td>
+</tr>
+<tr>
+<td>Tiempo argergentino</td> <td><a  href="https://www.tiempoar.com.ar/">https://www.tiempoar.com.ar//</a></td>
+</tr>
+<tr>
+<td>OLE</td><td><a  href="https://www.ole.com.ar/">https://www.ole.com.ar/</a></td>
+</tr>
+<tr>
+<th rowspan="4">Honduras</th>
+</tr>
+<tr>
+<td>la tribuna</td><td> <a  href="https://www.latribuna.hn/"> https://www.latribuna.hn/ </a></td>
+</tr>
+<tr>
+<td>EL heraldo</td> <td><a href="https://www.elheraldo.hn/"> https://www.elheraldo.hn//</a></td>
+</tr>
+<tr>
+<td>diario mas</td><td><a href="https://www.diariomas.hn/"> https://www.diariomas.hn// </a></td>
+</tr>
+</table>
+</body>
+</html>
